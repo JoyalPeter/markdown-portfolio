@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+Emoji list
+1. Heart :heart:
+2. Party :tada:
